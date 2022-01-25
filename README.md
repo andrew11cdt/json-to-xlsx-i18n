@@ -1,5 +1,5 @@
 # What is this python script for ?
-This script using xlsxwriter to merge 2 json files (key - value) (such as demo-en.json file) from i18n into 1 xlsx file for Business of Translation purpose.
+This script using xlsxwriter to merge 2 json files (key - value) (such as demo-en.json file) from i18n into 1 xlsx file for Translation purpose.
 # Install:
 1. install from official source: https://xlsxwriter.readthedocs.io/getting_started.html
 2. In commanlind use:
